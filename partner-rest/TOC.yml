@@ -1,0 +1,45 @@
+- name: İş ortağı geliştirici belgeleri
+  href: index.yml
+  items:
+    - name: Genel bakış ve senaryolar
+      href: develop/index.md
+      items:
+        - name: başlarken
+          href: develop/get-started.md
+          items:
+            - name: İş Ortağı API kimlik doğrulaması
+              href: develop/api-authentication.md
+        - name: Senaryolar
+          href: develop/scenarios.md
+          items:
+            - name: Referanslar
+              href: develop/referrals.md
+              items:
+                - name: Müşteri adaylarının ve fırsatların listesini alma
+                  href: develop/get-a-list-of-referrals.md
+                - name: Kimliğe göre bir müşteri adayı veya fırsat alma
+                  href: develop/get-a-referral-by-id.md
+                - name: Bir müşteri adayı veya fırsat güncelleştirme
+                  href: develop/patch-a-referral.md
+                - name: Yeni bir fırsat oluşturma
+                  href: develop/create-a-referral.md
+                - name: Referans kaynakları
+                  href: develop/referral-resources.md
+            - name: Fiyatlandırma
+              href: develop/pricing.md
+              items:
+                - name: Fiyat listesi alma
+                  href: develop/get-a-price-sheet.md
+                - name: Döviz kurlarını alma
+                  href: develop/get-foreign-exchange-rates.md
+    - name: REST API başvurusu
+      href: develop/rest-api-reference.md
+      items:
+        - name: REST uç nokta URL’leri
+          href: develop/rest-urls.md
+        - name: REAST üst bilgileri
+          href: develop/headers.md
+        - name: REST hata kodları
+          href: develop/error-codes.md
+        - name: REST kaynakları
+          href: develop/rest-resources.md

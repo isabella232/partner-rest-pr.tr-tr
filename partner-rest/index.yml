@@ -1,0 +1,37 @@
+### YamlMime:Landing
+title: Microsoft İş Ortağı REST API
+summary: Microsoft İş Ortağı REST API, Microsoft İş Ortağı Merkezi API’sinin yerini almıştır. Bu API, İş Ortağı Merkezi’nin özelliklerine programlı bir şekilde erişmenizi sağlar.
+metadata:
+  title: İş Ortağı Merkezi geliştirici belgeleri
+  description: Microsoft İş Ortağı REST API, Microsoft İş Ortağı Merkezi API’sinin yerini almıştır. Bu API, İş Ortağı Merkezi’nin özelliklerine program aracılığıyla erişmenizi sağlar.
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-sdk
+  ms.topic: landing-page
+  author: jasonwhowell
+  ms.author: jasonh
+  ms.date: 04/09/2020
+  ms.openlocfilehash: 163c778485f25318e1263a2064ded44fe617f8af
+  ms.sourcegitcommit: 3c165938f544ff226cbe11ca21ed5aa00448d9b4
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 04/23/2020
+  ms.locfileid: "97766520"
+landingContent:
+- title: Microsoft İş Ortağı API’si belgeleri ve kaynakları
+  linkLists:
+  - linkListType: get-started
+    links:
+    - text: İş Ortağı REST API kullanmaya başlayın
+      url: develop/get-started.md
+    - text: İş Ortağı REST API tarafından desteklenen senaryolar
+      url: develop/scenarios.md
+  - linkListType: reference
+    links:
+    - text: İş Ortağı REST API
+      url: develop/rest-api-reference.md
+  - linkListType: how-to-guide
+    links:
+    - text: Referansları program aracılığıyla yönetme
+      url: develop/referrals.md
+    - text: CSP fiyatlandırmasını program aracılığıyla alma
+      url: develop/pricing.md
