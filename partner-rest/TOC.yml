@@ -30,6 +30,8 @@
               items:
                 - name: Fiyat listesi alma
                   href: develop/get-a-price-sheet.md
+                - name: Teklif matrisi al
+                  href: develop/get-an-offer-matrix.md
                 - name: Döviz kurlarını alma
                   href: develop/get-foreign-exchange-rates.md
     - name: REST API başvurusu
